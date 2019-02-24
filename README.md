@@ -149,6 +149,8 @@ Some cable ties and mesh wire sleeves help with aesthetics.
 
 Also, do not freak out if you turn the power on on the case and nothing happens. The USB-C Thunderbolt 3 cable must be attached to your powered-on computer before the onboard circuitry will bother turning on the card and the pump power.
 
+![EGPU](https://github.com/crioux/watercooled-egpu/blob/master/pics/egpu3.jpg) ![EGPU](https://github.com/crioux/watercooled-egpu/blob/master/pics/egpu2.jpg)
+
 
 
 	
