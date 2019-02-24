@@ -111,7 +111,7 @@ I printed everything with black PETG. You might want to use more than 20% infill
 
 Attach the fans to the radiator, such that the cables exit the fan closest to the back of the unit. Attach the radiator and pump/reservoir to the mount. Adjust the lock nut so the mount fits tightly onto the top of the outer shell and the legs grip the edge in their notch. The EKWB hose they provide is very stiff and will likely want to apply pressure and push the mount off the top of the case unless you clip it well.
 
-![EGPU](https://github.com/crioux/watercooled-egpu/blob/master/pics/egpu4.png)
+![EGPU](https://github.com/crioux/watercooled-egpu/blob/master/pics/egpu4.jpg)
 
 Before you assemble the watercooling loop, make sure you leak-test all the angled/swivel/rotary adapters. They are notorious for leaking after you've already assembled the whole thing and filling it.
 
@@ -122,17 +122,18 @@ Insert the GPU card and assemble the loop. Do not fill anything with coolant unt
 Insert one of the PCIE power splitters between the Core X power supply and the graphics card, so you can power the fan controller and LED driver box.
 
 You will need to build one cable as a 12V power tap:  
-	One end is IDE POWER MOLEX 4 PIN FEMALE  
-		(you can chop one of these: https://www.amazon.com/Aiyide-Computer-Molex-Supply-Extension/dp/B07DMTT8G5)  
-	One end is PCIE 8 PIN FEMALE  
-		(you bought two of these, chop one of them: https://www.amazon.com/JacobsParts-Express-Power-Splitter-Cable/dp/B07611QXG4)  
-	You only need to connect the 12V pin on the 4 pin connector and its adjacent ground to one 12V+GND pair on the PCEI cable.  
+ * One end is IDE POWER MOLEX 4 PIN FEMALE 
+   (you can chop one of these: https://www.amazon.com/Aiyide-Computer-Molex-Supply-Extension/dp/B07DMTT8G5) 
+ * One end is PCIE 8 PIN FEMALE  
+   (you bought two of these, chop one of them: https://www.amazon.com/JacobsParts-Express-Power-Splitter-Cable/dp/B07611QXG4)  
 
-![Power Split](https://github.com/crioux/watercooled-egpu/blob/master/pics/powersplit.png)
+You only need to connect the 12V pin on the 4 pin connector and its adjacent ground to one 12V+GND pair on the PCEI cable.  
+
+![Power Split](https://github.com/crioux/watercooled-egpu/blob/master/pics/powersplit.jpg)
 
 Insert the fan controller card and secure it with a thumbscrew. Power the fan controller and LED driver box. Plug the cable for the waterblock's RGB lighting into the LED driver box.
 
-![Fan Cabling](https://github.com/crioux/watercooled-egpu/blob/master/pics/fancabling.png)
+![Fan Cabling](https://github.com/crioux/watercooled-egpu/blob/master/pics/fancabling.jpg)
 
 Now, fill the loop from the reservior, using the liter bottle filled with water and the coolant concentrate that came with the kit. You will want to use the pump testing power cable adapter that came with the kit rather than trying to power on the whole unit to power the pump. 
 
